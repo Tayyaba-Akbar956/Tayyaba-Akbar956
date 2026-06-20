@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A2E,40:3D1266,100:5C1A8A&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=E8D5F5&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=C4A8E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A1A,40:0D3535,100:1A5252&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=F0EDE0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=C8C4AE" width="100%"/>
 
 ```
 ████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
@@ -12,11 +12,11 @@
 ```
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/-LinkedIn-3D1266?style=for-the-badge&logo=linkedin&logoColor=E8D5F5"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0D3535?style=for-the-badge&logo=linkedin&logoColor=F0EDE0"/>
 </a>
 &nbsp;
 <a href="https://luxe-jewel.vercel.app/">
-  <img src="https://img.shields.io/badge/-Live_Projects-5C1A8A?style=for-the-badge&logo=vercel&logoColor=E8D5F5"/>
+  <img src="https://img.shields.io/badge/-Live_Projects-1A5252?style=for-the-badge&logo=vercel&logoColor=F0EDE0"/>
 </a>
 
 **✦ &nbsp; I don't just learn AI. I build with it. &nbsp; ✦**
@@ -67,7 +67,7 @@ A multi-tier autonomous AI agent architecture. Each tier adds capability, intell
 ### 🧠 OpenAI Agent SDK
 Hands-on implementation of OpenAI's agentic framework — building real agent pipelines, tool use, and multi-step reasoning systems.
 
-[![View](https://img.shields.io/badge/View_Project-3D1266?style=for-the-badge&logo=openai&logoColor=E8D5F5)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View](https://img.shields.io/badge/View_Project-0D3535?style=for-the-badge&logo=openai&logoColor=F0EDE0)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Hands-on implementation of OpenAI's agentic framework — building real agent pi
 ### 💎 Luxe Jewel
 Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a mockup — a live product.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-5C1A8A?style=for-the-badge&logo=vercel&logoColor=E8D5F5)](https://luxe-jewel.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-1A5252?style=for-the-badge&logo=vercel&logoColor=F0EDE0)](https://luxe-jewel.vercel.app/)
 
 </td>
 <td width="50%">
@@ -85,7 +85,7 @@ Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a 
 ### 🦾 Physical AI & Humanoid Robotics
 A web platform on the cutting edge of Physical AI. Built because the future of AI isn't just software.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-3D1266?style=for-the-badge&logo=vercel&logoColor=E8D5F5)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-0D3535?style=for-the-badge&logo=vercel&logoColor=F0EDE0)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
 </td>
 </tr>
@@ -124,9 +124,9 @@ A web platform on the cutting edge of Physical AI. Built because the future of A
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=E8D5F5&icon_color=C4A8E0&text_color=E8D5F5&bg_color=1A0A2E)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=F0EDE0&icon_color=C8C4AE&text_color=F0EDE0&bg_color=061A1A)
 
-![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=1A0A2E&stroke=5C1A8A&ring=E8D5F5&fire=C4A8E0&currStreakLabel=E8D5F5&sideLabels=C4A8E0&dates=C4A8E0&sideNums=E8D5F5&currStreakNum=E8D5F5)
+![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=061A1A&stroke=1A5252&ring=F0EDE0&fire=C8C4AE&currStreakLabel=F0EDE0&sideLabels=C8C4AE&dates=C8C4AE&sideNums=F0EDE0&currStreakNum=F0EDE0)
 
 </div>
 
@@ -141,15 +141,15 @@ I'm open to collaborations, internship opportunities, and conversations about AI
 &nbsp;
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-3D1266?style=for-the-badge&logo=linkedin&logoColor=E8D5F5"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0D3535?style=for-the-badge&logo=linkedin&logoColor=F0EDE0"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:tayyabaakbar956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-5C1A8A?style=for-the-badge&logo=gmail&logoColor=E8D5F5"/>
+  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-1A5252?style=for-the-badge&logo=gmail&logoColor=F0EDE0"/>
 </a>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C1A8A,50:3D1266,100:1A0A2E&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=E8D5F5&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5252,50:0D3535,100:061A1A&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=F0EDE0&fontAlignY=65" width="100%"/>
 
 </div>
