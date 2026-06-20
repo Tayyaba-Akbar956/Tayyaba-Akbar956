@@ -201,32 +201,32 @@ Stars  : ⭐ 6 GitHub Stars
 <div align="center">
 
 <!-- Languages -->
-![Python](https://img.shields.io/badge/Python-79CDEB?style=for-the-badge&logo=python&logoColor=092421)
-![JavaScript](https://img.shields.io/badge/JavaScript-B8E8F5?style=for-the-badge&logo=javascript&logoColor=092421)
-![HTML5](https://img.shields.io/badge/HTML5-79CDEB?style=for-the-badge&logo=html5&logoColor=092421)
-![CSS3](https://img.shields.io/badge/CSS3-B8E8F5?style=for-the-badge&logo=css3&logoColor=092421)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- Frameworks -->
-![Next.js](https://img.shields.io/badge/Next.js-092421?style=for-the-badge&logo=nextdotjs&logoColor=79CDEB)
-![FastAPI](https://img.shields.io/badge/FastAPI-092421?style=for-the-badge&logo=fastapi&logoColor=79CDEB)
-![NumPy](https://img.shields.io/badge/NumPy-092421?style=for-the-badge&logo=numpy&logoColor=B8E8F5)
-![Pandas](https://img.shields.io/badge/Pandas-092421?style=for-the-badge&logo=pandas&logoColor=B8E8F5)
-![Streamlit](https://img.shields.io/badge/Streamlit-092421?style=for-the-badge&logo=streamlit&logoColor=79CDEB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <!-- AI Tools -->
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-79CDEB?style=for-the-badge&logo=openai&logoColor=092421)
-![Gemini](https://img.shields.io/badge/Gemini_API-B8E8F5?style=for-the-badge&logo=google&logoColor=092421)
-![Claude](https://img.shields.io/badge/Claude_Code-79CDEB?style=for-the-badge&logoColor=092421)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-092421?style=for-the-badge&logoColor=79CDEB)
-![OpenCLAW](https://img.shields.io/badge/OpenCLAW-B8E8F5?style=for-the-badge&logoColor=092421)
-![OpenCode](https://img.shields.io/badge/OpenCode-092421?style=for-the-badge&logo=github&logoColor=79CDEB)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge&logoColor=white)
+![OpenCLAW](https://img.shields.io/badge/OpenCLAW-6B21A8?style=for-the-badge&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-24292F?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Databases -->
-![Supabase](https://img.shields.io/badge/Supabase-79CDEB?style=for-the-badge&logo=supabase&logoColor=092421)
-![NeonDB](https://img.shields.io/badge/NeonDB-B8E8F5?style=for-the-badge&logo=postgresql&logoColor=092421)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=000000)
 
 <!-- DevOps -->
-![Vercel](https://img.shields.io/badge/Vercel-092421?style=for-the-badge&logo=vercel&logoColor=79CDEB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
