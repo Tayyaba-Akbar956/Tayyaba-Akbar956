@@ -236,7 +236,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 ## 🏅 Certifications — Panaversity / PIAIC
 
-> 🎓 **9 Certifications Total · Panaversity + Anthropic** &nbsp;|&nbsp; [📄 View Panaversity Profile →](https://panaversity.org/p/falihaarain48-qi54)
+> 🎓 **9 Certifications Total · Panaversity + Anthropic** &nbsp;|
 
 <!-- ── ANTHROPIC CERTS ── -->
 <table>
@@ -277,6 +277,7 @@ Stars  : ⭐ 6 GitHub Stars
 <tr>
 <th colspan="4" align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">
 &nbsp;🎓 Panaversity / PIAIC Certifications &nbsp;·&nbsp; 83% Avg Score
+    &nbsp; [📄 View Panaversity Profile →](https://panaversity.org/p/falihaarain48-qi54)
 </th>
 </tr>
 <tr>
