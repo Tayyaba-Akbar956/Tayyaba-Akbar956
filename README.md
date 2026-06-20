@@ -5,14 +5,8 @@
 
 <div align="center">
 
-<!-- ── HEADER VIDEO BANNER ── -->
-<!-- Upload Black_and_Gray_Minimalist_LinkedIn_Banner__1_.mp4 to your repo root, then this renders automatically -->
-<video autoplay loop muted playsinline width="100%">
-  <source src="header" type="video/mp4">
-</video>
-
-<!-- Fallback GIF/image shown on platforms that don't render video -->
-<!-- If video doesn't play, GitHub will show the raw link — that's normal, it works on profile page -->
+<!-- ── HEADER BANNER GIF ── -->
+<img src="banner.gif" width="100%" alt="Tayyaba Akbar Banner"/>
 
 <br/>
 
