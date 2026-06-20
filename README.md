@@ -8,7 +8,7 @@
 <!-- ── HEADER VIDEO BANNER ── -->
 <!-- Upload Black_and_Gray_Minimalist_LinkedIn_Banner__1_.mp4 to your repo root, then this renders automatically -->
 <video autoplay loop muted playsinline width="100%">
-  <source src="Black_and_Gray_Minimalist_LinkedIn_Banner__1_.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/mp4">
 </video>
 
 <!-- Fallback GIF/image shown on platforms that don't render video -->
