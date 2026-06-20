@@ -1,224 +1,376 @@
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              TAYYABA AKBAR — GITHUB README          -->
+<!--         Palette: #79CDEB · #092421 · #B8E8F5        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tayyaba%20Akbar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=20"/>
-
-<!-- DYNAMIC TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+Agents+That+Work+For+You+%F0%9F%A4%96;Data+Scientist+%2B+AI+Engineer+%2B+Web+Dev;Quarter+5+%40+PIAIC+%7C+Sem+2+%40+VU;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ── HEADER ── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&height=220&section=header&text=Tayyaba%20Akbar&fontSize=62&fontColor=79CDEB&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18&descColor=B8E8F5" />
 
 <br/>
 
-<!-- BADGES ROW -->
-![Profile Views](https://komarev.com/ghpvc/?username=Tayyaba-Akbar956&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyaba-akbar956/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tayyaba-Akbar956)
-[![Panaversity](https://img.shields.io/badge/Panaversity-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://panaversity.org/p/falihaarain48-qi54)
+<!-- ── TYPING BANNER ── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=79CDEB&center=true&vCenter=true&width=750&lines=Building+AI+Agents+That+Work+For+You+%F0%9F%A4%96;Data+Scientist+%2B+AI+Engineer+%2B+Web+Dev;Quarter+5+%40+PIAIC+%7C+Semester+2+%40+VU+%F0%9F%8E%93;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80;Open+to+Internships+%C2%B7+Freelance+%C2%B7+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ── SOCIAL BADGES ── -->
+![Profile Views](https://komarev.com/ghpvc/?username=Tayyaba-Akbar956&color=79CDEB&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-79CDEB?style=for-the-badge&logo=linkedin&logoColor=092421)](https://www.linkedin.com/in/tayyaba-akbar956/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956)
+&nbsp;
+[![Panaversity](https://img.shields.io/badge/Panaversity-79CDEB?style=for-the-badge&logoColor=092421)](https://panaversity.org/p/falihaarain48-qi54)
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=092421&height=3&section=header&reversal=false&width=100%25" width="100%"/>
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=79CDEB&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
 
 ```python
 class TayyabaAkbar:
     def __init__(self):
         self.name        = "Tayyaba Akbar"
+        self.location    = "Pakistan 🇵🇰"
         self.education   = [
-            "BS Data Science @ Virtual University (Semester 2)",
-            "Agentic AI Engineering @ PIAIC / Panaversity (Quarter 5)"
+            "BS Data Science  ·  Virtual University  (Semester 2)",
+            "Agentic AI Engineering  ·  PIAIC / Panaversity  (Quarter 5)"
         ]
-        self.focus       = ["AI Agents", "Data Science", "Full-Stack Web Dev"]
-        self.tools       = ["Python", "FastAPI", "Next.js", "Supabase", "RAG", "LLMs"]
-        self.open_to     = ["Internships", "Freelance", "Collaborations"]
-        self.avg_score   = "83% across 7 Panaversity Certifications 🏆"
+        self.focus       = ["AI Agents & Automation", "Data Science", "Full-Stack Web Dev"]
+        self.stack       = ["Python", "FastAPI", "Next.js", "Supabase", "RAG", "LLMs"]
+        self.open_to     = ["Internships 💼", "Freelance 🛠️", "Collaborations 🤝"]
+        self.certs       = "7 Panaversity Exams Passed  ·  83% Avg Score 🏆"
 
-    def mission(self):
+    def mission(self) -> str:
         return "Build AI systems that replace repetitive work — and do it elegantly."
 ```
 
-> 💜 I don't just learn AI — I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
+> 🌊 I don't just learn AI — I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
+<!-- SVG section divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=092421&height=2" width="100%"/>
+
+<!--  PROJECT GRID — 2 columns, cyan outlined cells  -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<!-- ── PROJECT 1 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
 
-### 💎 Luxe Jewel
-> AI-powered e-commerce platform for luxury jewellery
+<h3 align="center">💎 Luxe Jewel</h3>
 
-- 🛒 Full-stack Next.js storefront
-- ✨ Modern UI with seamless UX
-- 🔗 [**Live Demo →**](https://luxe-jewel.vercel.app/)
+```
+Type   : E-Commerce Platform
+Stack  : Next.js · CSS · Vercel
+Status : ✅ Live
+```
 
+> AI-powered luxury jewellery storefront with a sleek, modern UI and seamless shopping experience.
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-79CDEB?style=for-the-badge&logoColor=092421)](https://luxe-jewel.vercel.app/)
+
+</div>
 </td>
-<td width="50%" valign="top">
 
-### 🤖 Physical AI & Humanoid Robotics
-> Web platform exploring the frontier of physical AI
+<!-- ── PROJECT 2 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
 
-- 🦾 Humanoid robotics content hub
-- 🌐 Built with Next.js
-- 🔗 [**Live Demo →**](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+<h3 align="center">🤖 Physical AI & Humanoid Robotics</h3>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```
+Type   : Research Web Platform
+Stack  : Next.js · JavaScript
+Status : ✅ Live
+```
 
-### 🧬 AI Employee — Bronze Tier
-> Autonomous AI agent handling real business tasks
+> A forward-looking platform exploring the frontier of physical AI and humanoid robotics technologies.
 
-- 🏭 Digital FTE (Full-Time Equivalent)
-- 🐍 Built with Python & OpenAI Agent SDK
-- 🔗 [**View Repo →**](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-79CDEB?style=for-the-badge&logoColor=092421)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
-### 🥈 AI Employee — Silver Tier
-> Advanced AI employee with upgraded capabilities
-
-- ⚙️ Enhanced task automation & reasoning
-- 🔗 [**View Repo →**](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
-
+</div>
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<!-- ── PROJECT 3 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
 
-### 🛠️ OpenAI Agent SDK Projects
-> Collection of agentic AI workflows & experiments
+<h3 align="center">🧬 AI Employee — Bronze Tier</h3>
 
-- 🤝 Multi-agent orchestration patterns
-- 🔗 [**View Repo →**](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+```
+Type   : Autonomous AI Agent
+Stack  : Python · OpenAI SDK · FastAPI
+Status : ✅ Shipped
+```
 
+> A digital Full-Time Equivalent (FTE) that handles real business tasks autonomously — no human needed.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+
+</div>
 </td>
-<td width="50%" valign="top">
 
-### 📡 OpenCLAW × 9Router Setup Guide
-> Multi-model AI routing without rate limits
+<!-- ── PROJECT 4 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
 
-- 🔀 Route across LLMs seamlessly
-- 📱 Includes WhatsApp integration
-- ⭐ **6 stars** on GitHub
-- 🔗 [**View Repo →**](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
+<h3 align="center">🥈 AI Employee — Silver Tier</h3>
 
+```
+Type   : Advanced AI Agent
+Stack  : Python · OpenAI SDK · RAG
+Status : ✅ Shipped
+```
+
+> An upgraded AI employee with enhanced reasoning, task automation, and smarter orchestration.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
+
+</div>
+</td>
+</tr>
+
+<tr>
+<!-- ── PROJECT 5 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+
+<h3 align="center">🛠️ OpenAI Agent SDK</h3>
+
+```
+Type   : Multi-Agent Experiments
+Stack  : Python · OpenAI Agents SDK
+Status : ✅ Active
+```
+
+> A collection of agentic AI workflows, multi-agent orchestration patterns, and SDK experiments.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+
+</div>
+</td>
+
+<!-- ── PROJECT 6 ── -->
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+
+<h3 align="center">📡 OpenCLAW × 9Router Guide</h3>
+
+```
+Type   : Setup Guide / Tooling
+Stack  : OpenCLAW · 9Router · WhatsApp
+Stars  : ⭐ 6 GitHub Stars
+```
+
+> Step-by-step guide to multi-model AI routing without rate limits — includes WhatsApp integration.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
+
+</div>
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-79CDEB?style=for-the-badge&logo=python&logoColor=092421)
+![JavaScript](https://img.shields.io/badge/JavaScript-B8E8F5?style=for-the-badge&logo=javascript&logoColor=092421)
+![HTML5](https://img.shields.io/badge/HTML5-79CDEB?style=for-the-badge&logo=html5&logoColor=092421)
+![CSS3](https://img.shields.io/badge/CSS3-B8E8F5?style=for-the-badge&logo=css3&logoColor=092421)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Frameworks -->
+![Next.js](https://img.shields.io/badge/Next.js-092421?style=for-the-badge&logo=nextdotjs&logoColor=79CDEB)
+![FastAPI](https://img.shields.io/badge/FastAPI-092421?style=for-the-badge&logo=fastapi&logoColor=79CDEB)
+![NumPy](https://img.shields.io/badge/NumPy-092421?style=for-the-badge&logo=numpy&logoColor=B8E8F5)
+![Pandas](https://img.shields.io/badge/Pandas-092421?style=for-the-badge&logo=pandas&logoColor=B8E8F5)
+![Streamlit](https://img.shields.io/badge/Streamlit-092421?style=for-the-badge&logo=streamlit&logoColor=79CDEB)
 
-**Frameworks & Libraries**
+<!-- AI Tools -->
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-79CDEB?style=for-the-badge&logo=openai&logoColor=092421)
+![Gemini](https://img.shields.io/badge/Gemini_API-B8E8F5?style=for-the-badge&logo=google&logoColor=092421)
+![Claude](https://img.shields.io/badge/Claude_Code-79CDEB?style=for-the-badge&logoColor=092421)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-092421?style=for-the-badge&logoColor=79CDEB)
+![OpenCLAW](https://img.shields.io/badge/OpenCLAW-B8E8F5?style=for-the-badge&logoColor=092421)
+![OpenCode](https://img.shields.io/badge/OpenCode-092421?style=for-the-badge&logo=github&logoColor=79CDEB)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<!-- Databases -->
+![Supabase](https://img.shields.io/badge/Supabase-79CDEB?style=for-the-badge&logo=supabase&logoColor=092421)
+![NeonDB](https://img.shields.io/badge/NeonDB-B8E8F5?style=for-the-badge&logo=postgresql&logoColor=092421)
 
-**AI & LLM Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
-![OpenCLAW](https://img.shields.io/badge/OpenCLAW-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-
-**Databases & Backend**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon DB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
-
-**Dev Tools**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<!-- DevOps -->
+![Vercel](https://img.shields.io/badge/Vercel-092421?style=for-the-badge&logo=vercel&logoColor=79CDEB)
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🏅 Certifications — Panaversity / PIAIC
 
-> 🎓 **7 Exams Passed · 83% Average Score** — [View Full Profile →](https://panaversity.org/p/falihaarain48-qi54)
+> 🎓 **7 Exams Passed · 83% Average Score** &nbsp;|&nbsp; [📄 View Full Credential Profile →](https://panaversity.org/p/falihaarain48-qi54)
 
-| # | Certificate | Score | Date | Issuer |
-|---|-------------|-------|------|--------|
-| 🥇 | Agent Factory Fundamentals: Building Digital FTEs | **94.44%** | Jan 2026 | Panaversity |
-| 🥈 | General Agents Fundamentals Part 1 | **87.69%** | Apr 2026 | Panaversity |
-| 🥉 | Prompt & Context Engineering: Effective AI Communication | **87.33%** | Oct 2025 | Panaversity |
-| ✅ | Model Context Protocol (MCP) Level 2 Certification | **80%** | Oct 2025 | Panaversity |
-| ✅ | Fundamentals of Modern AI Python | **80%** | Oct 2025 | Panaversity |
-| ✅ | Fundamentals of Agentic AI Exam | **74%** | Jun 2025 | Panaversity |
-| ✅ | Level 2 Fundamentals of Agentic AI Professional | **75%** | Jul 2025 | Panaversity |
+<table>
+<thead>
+<tr>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">🏆</th>
+<th align="left" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Certificate</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Score</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">🥇</td>
+<td>Agent Factory Fundamentals: Building Digital FTEs</td>
+<td align="center"><b>94.44%</b></td>
+<td align="center">Jan 2026</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td>General Agents Fundamentals Part 1</td>
+<td align="center"><b>87.69%</b></td>
+<td align="center">Apr 2026</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td>Prompt & Context Engineering: Effective AI Communication</td>
+<td align="center"><b>87.33%</b></td>
+<td align="center">Oct 2025</td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td>Model Context Protocol (MCP) Level 2 Certification</td>
+<td align="center"><b>80%</b></td>
+<td align="center">Oct 2025</td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td>Fundamentals of Modern AI Python</td>
+<td align="center"><b>80%</b></td>
+<td align="center">Oct 2025</td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td>Level 2 Fundamentals of Agentic AI Professional</td>
+<td align="center"><b>75%</b></td>
+<td align="center">Jul 2025</td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td>Fundamentals of Agentic AI Exam</td>
+<td align="center"><b>74%</b></td>
+<td align="center">Jun 2025</td>
+</tr>
+</tbody>
+</table>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📚 Currently Learning
 
+<table>
+<tr>
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; background-color: #092421;">
+
+**🎓 Formal Education**
+
 ```
-🔷  Quarter 5 — PIAIC Agentic AI Program @ Panaversity
-🔷  Semester 2 — BS Data Science @ Virtual University
-🔷  Advanced Multi-Agent Architectures
-🔷  RAG Pipelines & Vector Databases
-🔷  Production-grade FastAPI + Supabase backends
+📌  Quarter 5 — PIAIC Agentic AI @ Panaversity
+📌  Semester 2 — BS Data Science @ Virtual University
 ```
 
----
+</td>
+<td width="50%" valign="top" style="border: 2px solid #79CDEB; background-color: #092421;">
+
+**🔬 Currently Exploring**
+
+```
+🔷  Advanced Multi-Agent Architectures
+🔷  RAG Pipelines & Vector Databases
+🔷  Production FastAPI + Supabase backends
+🔷  AI Employee (Gold Tier) development
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=false&border_color=79CDEB&bg_color=092421&title_color=79CDEB&icon_color=79CDEB&text_color=B8E8F5&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&theme=tokyonight&border=7C3AED&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&hide_border=false&border=79CDEB&background=092421&stroke=79CDEB&ring=79CDEB&fire=79CDEB&currStreakLabel=79CDEB&sideLabels=B8E8F5&dates=B8E8F5" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=79CDEB&bg_color=092421&title_color=79CDEB&text_color=B8E8F5" />
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=tokyonight&column=4&margin-w=10&no-bg=true&no-frame=false" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=algolia&column=4&margin-w=8&no-bg=false&no-frame=false" />
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-> 💼 I'm actively open to **internships**, **freelance projects**, and **collaborations** in AI, Data Science, and Web Development.
+> 💼 Open to **internships**, **freelance projects**, and **collaborations** in AI, Data Science & Web Dev.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyaba-akbar956/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tayyaba-Akbar956)
-[![Panaversity](https://img.shields.io/badge/View_Certifications-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://panaversity.org/p/falihaarain48-qi54)
+<br/>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-79CDEB?style=for-the-badge&logo=linkedin&logoColor=092421)](https://www.linkedin.com/in/tayyaba-akbar956/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956)
+&nbsp;
+[![Certifications](https://img.shields.io/badge/View_Certifications-B8E8F5?style=for-the-badge&logoColor=092421)](https://panaversity.org/p/falihaarain48-qi54)
 
----
+<br/>
 
-<div align="center">
+*"The best way to predict the future is to build it — with AI."* 🌊
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+**⭐ If my repos helped you, leave a star — it keeps me going!**
 
-*"The best way to predict the future is to build it — with AI."* 🚀
+<br/>
 
-**⭐ Star my repos if you find them useful!**
+<!-- ── FOOTER ── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&height=130&section=footer&animation=twinkling"/>
 
 </div>
