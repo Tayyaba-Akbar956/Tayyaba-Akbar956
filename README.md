@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,30:1A5C42,60:0E4D3A,100:072B20&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=E8D5B0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=C4A882" width="100%"/>
 
-&nbsp;
 
 ```
-████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
-╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
-   ██║   ███████║ ╚████╔╝  ╚████╔╝ ███████║██████╔╝███████║
-   ██║   ██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██╔══██╗██╔══██║
-   ██║   ██║  ██║   ██║      ██║   ██║  ██║██████╔╝██║  ██║
-   ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+████████╗  █████╗  ██╗   ██╗ ██╗   ██╗  █████╗  ██████╗   █████╗ 
+╚══██╔══╝ ██╔══██╗ ╚██╗ ██╔╝ ╚██╗ ██╔╝ ██╔══██╗ ██╔══██╗ ██╔══██╗
+   ██║    ███████║  ╚████╔╝   ╚████╔╝  ███████║ ██████╔╝ ███████║
+   ██║    ██╔══██║   ╚██╔╝     ╚██╔╝   ██╔══██║ ██╔══██╗ ██╔══██║
+   ██║    ██║  ██║    ██║       ██║    ██║  ██║ ██████╔╝ ██║  ██║
+   ╚═╝    ╚═╝  ╚═╝    ╚═╝       ╚═╝    ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝
+
+ █████╗  ██╗  ██╗ ██████╗   █████╗  ██████╗ 
+██╔══██╗ ██║ ██╔╝ ██╔══██╗ ██╔══██╗ ██╔══██╗
+███████║ █████╔╝  ██████╔╝ ███████║ ██████╔╝
+██╔══██║ ██╔═██╗  ██╔══██╗ ██╔══██║ ██╔══██╗
+██║  ██║ ██║  ██╗ ██████╔╝ ██║  ██║ ██║  ██╗
+╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
 ```
 
 &nbsp;
@@ -18,11 +23,6 @@
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
   <img src="https://img.shields.io/badge/-LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=E8D5B0"/>
 </a>
-&nbsp;
-<a href="https://luxe-jewel.vercel.app/">
-  <img src="https://img.shields.io/badge/-Live_Projects-1A5C42?style=for-the-badge&logo=vercel&logoColor=E8D5B0"/>
-</a>
-
 &nbsp;
 
 **✦ &nbsp; I don't just learn AI. I build with it. &nbsp; ✦**
