@@ -1,74 +1,124 @@
 <div align="center">
 
-# Hey there! I'm Tayyaba Akbar 👋
+```
+████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
+╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+   ██║   ███████║ ╚████╔╝  ╚████╔╝ ███████║██████╔╝███████║
+   ██║   ██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██╔══██╗██╔══██║
+   ██║   ██║  ██║   ██║      ██║   ██║  ██║██████╔╝██║  ██║
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+```
 
-### Python Developer · AI Enthusiast · Data Science Student from Pakistan 🇵🇰
+### `AI Engineer` · `Data Scientist` · `Builder`
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyaba-akbar956/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://luxe-jewel.vercel.app/)
+**I don't just learn AI. I build with it.**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyaba-akbar956/)
+[![Live Projects](https://img.shields.io/badge/-Live_Projects-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://luxe-jewel.vercel.app/)
 
 </div>
 
 ---
 
-### 👩‍💻 A little about me
+## ⚡ WHO AM I
 
-I'm Tayyaba — a student who fell in love with code and never looked back! I'm currently studying **BS Data Science at Virtual University** and learning **AI at PIAIC**, which means my brain is basically running multiple threads at all times 😄
+> A student on a mission. Currently pursuing **BS Data Science** at **Virtual University** and training in **Artificial Intelligence** at **PIAIC** — simultaneously building production AI systems, shipping full-stack apps, and pushing the boundaries of what a student can do.
 
-I love building things that actually *work* — from AI agents that can think and act, to full-stack web apps that look beautiful. Whether it's wiring up a RAG pipeline or styling a Next.js frontend, I'm always learning something new.
-
----
-
-### 🌱 What I'm up to these days
-
-- 🤖 **Building AI Agents** — multi-agent systems, agentic workflows, and AI employees
-- 🌐 **Full-Stack Dev** — Next.js frontends powered by FastAPI backends
-- 📊 **Data Science** — getting comfortable with NumPy, Pandas, and beyond
-- 🎓 **Studying** — BS Data Science (VU) + AI Program (PIAIC) simultaneously!
+No waiting until graduation. Building **now.**
 
 ---
 
-### 🚀 Projects I'm proud of
+## 🔥 WHAT I'M BUILDING
 
-| Project | What it does | Link |
-|---|---|---|
-| 💎 **Luxe Jewel** | A stunning luxury jewellery e-commerce store | [Live ↗](https://luxe-jewel.vercel.app/) |
-| 🤖 **AI Employee Bronze** | An autonomous AI worker — Tier 1 of my agent series | [GitHub ↗](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-) |
-| 🤖 **AI Employee Silver** | Upgraded agentic AI with expanded capabilities | [GitHub ↗](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-) |
-| 🧠 **OpenAI Agent SDK** | Exploring and implementing OpenAI's agent system | [GitHub ↗](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK) |
-| 🦾 **Physical AI & Robotics** | Web platform on humanoid robots & Physical AI | [Live ↗](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/) |
-
----
-
-### 🛠️ My toolkit
-
-```
-🐍 Python          ⚡ FastAPI          ▲ Next.js
-🌐 HTML/CSS/JS     🧮 NumPy/Pandas     🤖 OpenAI Agent SDK
-🔮 Gemini API      🗄️ Supabase         🐘 Neon DB
-📚 RAG Pipelines   🐾 OpenClaw         💻 Claude Code
+```python
+current_focus = {
+    "AI Agents"     : "Autonomous multi-tier AI Employee systems",
+    "Full Stack"    : "FastAPI + Next.js production applications",
+    "Data Science"  : "NumPy, Pandas, real-world datasets",
+    "AI APIs"       : "OpenAI SDK, Gemini API, RAG pipelines",
+    "Databases"     : "Supabase, Neon DB",
+}
 ```
 
 ---
 
-### 📈 GitHub activity
+## 🚀 FEATURED WORK
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Employee Series
+**Bronze Tier** → **Silver Tier** → *and beyond...*
+
+A multi-tier autonomous AI agent architecture. Each tier adds capability, intelligence, and autonomy. This is not a tutorial project — this is a system.
+
+[![Bronze](https://img.shields.io/badge/Bronze_Tier-CD7F32?style=for-the-badge)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+[![Silver](https://img.shields.io/badge/Silver_Tier-C0C0C0?style=for-the-badge)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
+
+</td>
+<td width="50%">
+
+### 🧠 OpenAI Agent SDK
+Hands-on implementation of OpenAI's agentic framework — building real agent pipelines, tool use, and multi-step reasoning systems.
+
+[![View](https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💎 Luxe Jewel
+Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a mockup — a live product.
+
+[![Live](https://img.shields.io/badge/LIVE_NOW-000000?style=for-the-badge&logo=vercel)](https://luxe-jewel.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🦾 Physical AI & Humanoid Robotics
+A web platform on the cutting edge of Physical AI. Built because the future of AI isn't just software.
+
+[![Live](https://img.shields.io/badge/LIVE_NOW-1A1A2E?style=for-the-badge&logo=vercel)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECH ARSENAL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Neon](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4500?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+
+---
+
+## 📊 STATS
 
 <div align="center">
 
-![Tayyaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&theme=radical&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=0D0D0D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&theme=radical&hide_border=true&background=0D0D0D&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FF4500)
 
 </div>
 
 ---
 
-### 🤝 Let's connect!
-
-I'm always happy to chat about AI, data science, Python, or anything tech-related. If you want to collaborate on a project or just say hi — reach out on LinkedIn! 😊
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tayyaba-akbar956/)
+**🎓 BS Data Science @ Virtual University · AI @ PIAIC · Building the future, one commit at a time.**
 
 </div>
