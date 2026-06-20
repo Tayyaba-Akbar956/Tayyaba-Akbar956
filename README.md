@@ -5,8 +5,14 @@
 
 <div align="center">
 
-<!-- ── HEADER ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&height=220&section=header&text=Tayyaba%20Akbar&fontSize=62&fontColor=79CDEB&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18&descColor=B8E8F5" />
+<!-- ── HEADER VIDEO BANNER ── -->
+<!-- Upload Black_and_Gray_Minimalist_LinkedIn_Banner__1_.mp4 to your repo root, then this renders automatically -->
+<video autoplay loop muted playsinline width="100%">
+  <source src="Black_and_Gray_Minimalist_LinkedIn_Banner__1_.mp4" type="video/mp4">
+</video>
+
+<!-- Fallback GIF/image shown on platforms that don't render video -->
+<!-- If video doesn't play, GitHub will show the raw link — that's normal, it works on profile page -->
 
 <br/>
 
@@ -46,7 +52,7 @@ class TayyabaAkbar:
         self.focus       = ["AI Agents & Automation", "Data Science", "Full-Stack Web Dev"]
         self.stack       = ["Python", "FastAPI", "Next.js", "Supabase", "RAG", "LLMs"]
         self.open_to     = ["Internships 💼", "Freelance 🛠️", "Collaborations 🤝"]
-        self.certs       = "7 Panaversity Exams Passed  ·  83% Avg Score 🏆"
+        self.certs       = "9 Certifications  ·  Panaversity + Anthropic 🏆"
 
     def mission(self) -> str:
         return "Build AI systems that replace repetitive work — and do it elegantly."
@@ -236,15 +242,54 @@ Stars  : ⭐ 6 GitHub Stars
 
 ## 🏅 Certifications — Panaversity / PIAIC
 
-> 🎓 **7 Exams Passed · 83% Average Score** &nbsp;|&nbsp; [📄 View Full Credential Profile →](https://panaversity.org/p/falihaarain48-qi54)
+> 🎓 **9 Certifications Total · Panaversity + Anthropic** &nbsp;|&nbsp; [📄 View Panaversity Profile →](https://panaversity.org/p/falihaarain48-qi54)
 
+<!-- ── ANTHROPIC CERTS ── -->
 <table>
 <thead>
 <tr>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">🏆</th>
-<th align="left" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Certificate</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Score</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">Date</th>
+<th colspan="4" align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">
+&nbsp;🤖 Anthropic Education Certificates
+</th>
+</tr>
+<tr>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">🏅</th>
+<th align="left" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Certificate</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Date</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Verify</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">🟦</td>
+<td><b>Introduction to Model Context Protocol</b></td>
+<td align="center">Aug 13, 2025</td>
+<td align="center"><a href="https://verify.skilljar.com/c/ikm49mqmjczt"><img src="https://img.shields.io/badge/Verify-79CDEB?style=flat-square&logoColor=092421" /></a></td>
+</tr>
+<tr>
+<td align="center">🟦</td>
+<td><b>Model Context Protocol: Advanced Topics</b></td>
+<td align="center">Aug 20, 2025</td>
+<td align="center"><a href="https://verify.skilljar.com/c/3q85wt4c6puo"><img src="https://img.shields.io/badge/Verify-79CDEB?style=flat-square&logoColor=092421" /></a></td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
+<!-- ── PANAVERSITY CERTS ── -->
+<table>
+<thead>
+<tr>
+<th colspan="4" align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">
+&nbsp;🎓 Panaversity / PIAIC Certifications &nbsp;·&nbsp; 83% Avg Score
+</th>
+</tr>
+<tr>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">🏆</th>
+<th align="left" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Certificate</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Score</th>
+<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Date</th>
 </tr>
 </thead>
 <tbody>
