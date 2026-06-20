@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D1A,40:0A1F3D,100:102D5E&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=C8D8E8&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=8FAFC8" width="100%"/>
 
 ```
 ████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
@@ -9,15 +9,15 @@
    ██║   ██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██╔══██╗██╔══██║
    ██║   ██║  ██║   ██║      ██║   ██║  ██║██████╔╝██║  ██║
    ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
-
 ```
 
-&nbsp;
-
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=E8D5B0"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A1F3D?style=for-the-badge&logo=linkedin&logoColor=C8D8E8"/>
 </a>
 &nbsp;
+<a href="https://luxe-jewel.vercel.app/">
+  <img src="https://img.shields.io/badge/-Live_Projects-102D5E?style=for-the-badge&logo=vercel&logoColor=C8D8E8"/>
+</a>
 
 **✦ &nbsp; I don't just learn AI. I build with it. &nbsp; ✦**
 
@@ -67,7 +67,7 @@ A multi-tier autonomous AI agent architecture. Each tier adds capability, intell
 ### 🧠 OpenAI Agent SDK
 Hands-on implementation of OpenAI's agentic framework — building real agent pipelines, tool use, and multi-step reasoning systems.
 
-[![View](https://img.shields.io/badge/View_Project-0B3D2E?style=for-the-badge&logo=openai&logoColor=E8D5B0)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View](https://img.shields.io/badge/View_Project-0A1F3D?style=for-the-badge&logo=openai&logoColor=C8D8E8)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Hands-on implementation of OpenAI's agentic framework — building real agent pi
 ### 💎 Luxe Jewel
 Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a mockup — a live product.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-1A5C42?style=for-the-badge&logo=vercel&logoColor=E8D5B0)](https://luxe-jewel.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-102D5E?style=for-the-badge&logo=vercel&logoColor=C8D8E8)](https://luxe-jewel.vercel.app/)
 
 </td>
 <td width="50%">
@@ -85,7 +85,7 @@ Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a 
 ### 🦾 Physical AI & Humanoid Robotics
 A web platform on the cutting edge of Physical AI. Built because the future of AI isn't just software.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-0B3D2E?style=for-the-badge&logo=vercel&logoColor=E8D5B0)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-0A1F3D?style=for-the-badge&logo=vercel&logoColor=C8D8E8)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
 </td>
 </tr>
@@ -96,27 +96,27 @@ A web platform on the cutting edge of Physical AI. Built because the future of A
 ## 🛠️ TECH ARSENAL
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-0B3D2E?style=for-the-badge&logo=python&logoColor=E8D5B0)
-![FastAPI](https://img.shields.io/badge/FastAPI-1A5C42?style=for-the-badge&logo=fastapi&logoColor=E8D5B0)
-![Next.js](https://img.shields.io/badge/Next.js-0B3D2E?style=for-the-badge&logo=next.js&logoColor=E8D5B0)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A5C42?style=for-the-badge&logo=javascript&logoColor=E8D5B0)
-![HTML5](https://img.shields.io/badge/HTML5-0B3D2E?style=for-the-badge&logo=html5&logoColor=E8D5B0)
-![CSS3](https://img.shields.io/badge/CSS3-1A5C42?style=for-the-badge&logo=css3&logoColor=E8D5B0)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI & Agents
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-0B3D2E?style=for-the-badge&logo=openai&logoColor=E8D5B0)
-![Gemini API](https://img.shields.io/badge/Gemini_API-1A5C42?style=for-the-badge&logo=google&logoColor=E8D5B0)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0B3D2E?style=for-the-badge&logoColor=E8D5B0)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-1A5C42?style=for-the-badge&logoColor=E8D5B0)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0B3D2E?style=for-the-badge&logoColor=E8D5B0)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white)
 
 ### Data Science
-![NumPy](https://img.shields.io/badge/NumPy-1A5C42?style=for-the-badge&logo=numpy&logoColor=E8D5B0)
-![Pandas](https://img.shields.io/badge/Pandas-0B3D2E?style=for-the-badge&logo=pandas&logoColor=E8D5B0)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Databases & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-1A5C42?style=for-the-badge&logo=supabase&logoColor=E8D5B0)
-![NeonDB](https://img.shields.io/badge/Neon_DB-0B3D2E?style=for-the-badge&logo=neon&logoColor=E8D5B0)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 ---
 
@@ -124,9 +124,9 @@ A web platform on the cutting edge of Physical AI. Built because the future of A
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=E8D5B0&icon_color=C4A882&text_color=A8C5B0&bg_color=072B20)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=C8D8E8&icon_color=8FAFC8&text_color=C8D8E8&bg_color=050D1A)
 
-![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=072B20&stroke=1A5C42&ring=E8D5B0&fire=C4A882&currStreakLabel=E8D5B0&sideLabels=A8C5B0&dates=A8C5B0&sideNums=E8D5B0&currStreakNum=E8D5B0)
+![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=050D1A&stroke=102D5E&ring=C8D8E8&fire=8FAFC8&currStreakLabel=C8D8E8&sideLabels=8FAFC8&dates=8FAFC8&sideNums=C8D8E8&currStreakNum=C8D8E8)
 
 </div>
 
@@ -141,15 +141,15 @@ I'm open to collaborations, internship opportunities, and conversations about AI
 &nbsp;
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=E8D5B0"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0A1F3D?style=for-the-badge&logo=linkedin&logoColor=C8D8E8"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:tayyabaakbar956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-1A5C42?style=for-the-badge&logo=gmail&logoColor=E8D5B0"/>
+  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-102D5E?style=for-the-badge&logo=gmail&logoColor=C8D8E8"/>
 </a>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:072B20,40:0B3D2E,100:1A5C42&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=E8D5B0&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102D5E,50:0A1F3D,100:050D1A&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=C8D8E8&fontAlignY=65" width="100%"/>
 
 </div>
