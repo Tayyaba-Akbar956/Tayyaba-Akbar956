@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A1A,40:0D3535,100:1A5252&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=F0EDE0&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=C8C4AE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1400,100:2A2000&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=D4AF37&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=8C7853" width="100%"/>
 
 ```
 ████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
@@ -12,12 +12,14 @@
 ```
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0D3535?style=for-the-badge&logo=linkedin&logoColor=F0EDE0"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-1A1400?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 &nbsp;
 <a href="https://luxe-jewel.vercel.app/">
-  <img src="https://img.shields.io/badge/-Live_Projects-1A5252?style=for-the-badge&logo=vercel&logoColor=F0EDE0"/>
+  <img src="https://img.shields.io/badge/-Live_Projects-2A2000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
 </a>
+
+&nbsp;
 
 **✦ &nbsp; I don't just learn AI. I build with it. &nbsp; ✦**
 
@@ -58,8 +60,8 @@ current_focus = {
 
 A multi-tier autonomous AI agent architecture. Each tier adds capability, intelligence, and autonomy. This is not a tutorial project — this is a system.
 
-[![Bronze](https://img.shields.io/badge/Bronze_Tier-CD7F32?style=for-the-badge)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
-[![Silver](https://img.shields.io/badge/Silver_Tier-8A8A8A?style=for-the-badge)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
+[![Bronze](https://img.shields.io/badge/Bronze_Tier-CD7F32?style=for-the-badge&logoColor=F5F5F5)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+[![Silver](https://img.shields.io/badge/Silver_Tier-8C7853?style=for-the-badge&logoColor=F5F5F5)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
 
 </td>
 <td width="50%">
@@ -67,7 +69,7 @@ A multi-tier autonomous AI agent architecture. Each tier adds capability, intell
 ### 🧠 OpenAI Agent SDK
 Hands-on implementation of OpenAI's agentic framework — building real agent pipelines, tool use, and multi-step reasoning systems.
 
-[![View](https://img.shields.io/badge/View_Project-0D3535?style=for-the-badge&logo=openai&logoColor=F0EDE0)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View](https://img.shields.io/badge/View_Project-1A1400?style=for-the-badge&logo=openai&logoColor=D4AF37)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </td>
 </tr>
@@ -77,7 +79,7 @@ Hands-on implementation of OpenAI's agentic framework — building real agent pi
 ### 💎 Luxe Jewel
 Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a mockup — a live product.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-1A5252?style=for-the-badge&logo=vercel&logoColor=F0EDE0)](https://luxe-jewel.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-2A2000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://luxe-jewel.vercel.app/)
 
 </td>
 <td width="50%">
@@ -85,7 +87,7 @@ Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a 
 ### 🦾 Physical AI & Humanoid Robotics
 A web platform on the cutting edge of Physical AI. Built because the future of AI isn't just software.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-0D3535?style=for-the-badge&logo=vercel&logoColor=F0EDE0)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-1A1400?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
 </td>
 </tr>
@@ -124,9 +126,9 @@ A web platform on the cutting edge of Physical AI. Built because the future of A
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=F0EDE0&icon_color=C8C4AE&text_color=F0EDE0&bg_color=061A1A)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5&bg_color=0D0D0D)
 
-![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=061A1A&stroke=1A5252&ring=F0EDE0&fire=C8C4AE&currStreakLabel=F0EDE0&sideLabels=C8C4AE&dates=C8C4AE&sideNums=F0EDE0&currStreakNum=F0EDE0)
+![Streak](https://streak-stats.demolab.com?user=Tayyaba-Akbar956&hide_border=true&background=0D0D0D&stroke=8C7853&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=8C7853&dates=8C7853&sideNums=D4AF37&currStreakNum=D4AF37)
 
 </div>
 
@@ -141,15 +143,15 @@ I'm open to collaborations, internship opportunities, and conversations about AI
 &nbsp;
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0D3535?style=for-the-badge&logo=linkedin&logoColor=F0EDE0"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-1A1400?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:tayyabaakbar956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-1A5252?style=for-the-badge&logo=gmail&logoColor=F0EDE0"/>
+  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-2A2000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5252,50:0D3535,100:061A1A&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=F0EDE0&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2000,50:1A1400,100:0D0D0D&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=D4AF37&fontAlignY=65" width="100%"/>
 
 </div>
