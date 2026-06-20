@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1400,100:2A2000&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=D4AF37&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=8C7853" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0D0D0D,100:0D0D0D&height=200&section=header&text=Tayyaba%20Akbar&fontSize=52&fontColor=D4AF37&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Builder&descSize=18&descAlignY=62&descFontColor=8C7853" width="100%"/>
 
 ```
 ████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗
@@ -12,11 +13,11 @@
 ```
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/-LinkedIn-1A1400?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0D0D0D"/>
 </a>
 &nbsp;
 <a href="https://luxe-jewel.vercel.app/">
-  <img src="https://img.shields.io/badge/-Live_Projects-2A2000?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/-Live_Projects-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=0D0D0D"/>
 </a>
 
 &nbsp;
@@ -69,7 +70,7 @@ A multi-tier autonomous AI agent architecture. Each tier adds capability, intell
 ### 🧠 OpenAI Agent SDK
 Hands-on implementation of OpenAI's agentic framework — building real agent pipelines, tool use, and multi-step reasoning systems.
 
-[![View](https://img.shields.io/badge/View_Project-1A1400?style=for-the-badge&logo=openai&logoColor=D4AF37)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View](https://img.shields.io/badge/View_Project-0D0D0D?style=for-the-badge&logo=openai&logoColor=D4AF37)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </td>
 </tr>
@@ -79,7 +80,7 @@ Hands-on implementation of OpenAI's agentic framework — building real agent pi
 ### 💎 Luxe Jewel
 Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a mockup — a live product.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-2A2000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://luxe-jewel.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://luxe-jewel.vercel.app/)
 
 </td>
 <td width="50%">
@@ -87,7 +88,7 @@ Full-stack luxury e-commerce platform. Real UI, real UX, real deployment. Not a 
 ### 🦾 Physical AI & Humanoid Robotics
 A web platform on the cutting edge of Physical AI. Built because the future of AI isn't just software.
 
-[![Live](https://img.shields.io/badge/LIVE_NOW-1A1400?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+[![Live](https://img.shields.io/badge/LIVE_NOW-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
 </td>
 </tr>
@@ -143,15 +144,15 @@ I'm open to collaborations, internship opportunities, and conversations about AI
 &nbsp;
 
 <a href="https://www.linkedin.com/in/tayyaba-akbar956/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-1A1400?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tayyaba_Akbar-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:tayyabaakbar956@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-2A2000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Email-tayyabaakbar956@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2000,50:1A1400,100:0D0D0D&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=D4AF37&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0D0D0D,100:0D0D0D&height=130&section=footer&text=BS%20Data%20Science%20%40%20VU%20%C2%B7%20AI%20%40%20PIAIC%20%C2%B7%20Building%20the%20future&fontSize=14&fontColor=D4AF37&fontAlignY=65" width="100%"/>
 
 </div>
