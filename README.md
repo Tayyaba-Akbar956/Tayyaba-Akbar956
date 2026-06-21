@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C0243C&height=3&section=header&reversal=false&width=100%25" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=000000&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=C0243C&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
 
 ```python
 class TayyabaAkbar:
@@ -52,7 +52,7 @@ class TayyabaAkbar:
         return "Build AI systems that replace repetitive work — and do it elegantly."
 ```
 
-> 🌊 I don't just learn AI, I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
+> 🌊 I don't just learn AI — I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
 
 <br/>
 
@@ -107,7 +107,7 @@ Status : ✅ Live
 
 <tr>
 <!-- ── PROJECT 3 ── -->
-<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #C0243C;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">🧬 AI Employee — Bronze Tier</h3>
 
@@ -121,7 +121,7 @@ Status : ✅ Shipped
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-C0243C?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
 
 </div>
 </td>
@@ -141,7 +141,7 @@ Status : ✅ Shipped
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-C0243C?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
 
 </div>
 </td>
@@ -163,7 +163,7 @@ Status : ✅ Active
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-C0243C?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </div>
 </td>
@@ -183,7 +183,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-C0243C?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
 
 </div>
 </td>
@@ -372,11 +372,11 @@ Stars  : ⭐ 6 GitHub Stars
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&icon_color=C0243C&text_color=F5C2CB&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&icon_color=C0243C&text_color=F5C2CB&count_private=true&number_color=ffffff" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&hide_border=false&border=C0243C&background=092421&stroke=C0243C&ring=C0243C&fire=C0243C&currStreakLabel=C0243C&sideLabels=F5C2CB&dates=F5C2CB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=F5C2CB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=F5C2CB&number_color=ffffff" />
 
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=gruvbox&column=4&margin-w=8&no-bg=false&no-frame=false" />
 
