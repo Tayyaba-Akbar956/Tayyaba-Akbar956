@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════ -->
 <!--              TAYYABA AKBAR — GITHUB README          -->
-<!--         Palette: #79CDEB · #092421 · #B8E8F5        -->
+<!--         Palette: #C0243C · #092421 · #F5C2CB        -->
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -11,18 +11,18 @@
 <br/>
 
 <!-- ── TYPING BANNER ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=79CDEB&center=true&vCenter=true&width=750&lines=Building+AI+Agents+That+Work+For+You+%F0%9F%A4%96;Data+Scientist+%2B+AI+Engineer+%2B+Web+Dev;Quarter+5+%40+PIAIC+%7C+Semester+2+%40+VU+%F0%9F%8E%93;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80;Open+to+Internships+%C2%B7+Freelance+%C2%B7+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=C0243C&center=true&vCenter=true&width=750&lines=Building+AI+Agents+That+Work+For+You+%F0%9F%A4%96;Data+Scientist+%2B+AI+Engineer+%2B+Web+Dev;Quarter+5+%40+PIAIC+%7C+Semester+2+%40+VU+%F0%9F%8E%93;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80;Open+to+Internships+%C2%B7+Freelance+%C2%B7+Collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- ── SOCIAL BADGES ── -->
-![Profile Views](https://komarev.com/ghpvc/?username=Tayyaba-Akbar956&color=79CDEB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Tayyaba-Akbar956&color=C0243C&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-79CDEB?style=for-the-badge&logo=linkedin&logoColor=092421)](https://www.linkedin.com/in/tayyaba-akbar956/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C0243C?style=for-the-badge&logo=linkedin&logoColor=F5C2CB)](https://www.linkedin.com/in/tayyaba-akbar956/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956)
+[![GitHub](https://img.shields.io/badge/GitHub-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956)
 &nbsp;
-[![Panaversity](https://img.shields.io/badge/Panaversity-79CDEB?style=for-the-badge&logoColor=092421)](https://panaversity.org/p/falihaarain48-qi54)
+[![Panaversity](https://img.shields.io/badge/Panaversity-C0243C?style=for-the-badge&logoColor=F5C2CB)](https://panaversity.org/p/falihaarain48-qi54)
 
 </div>
 
@@ -30,9 +30,9 @@
 
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=092421&height=3&section=header&reversal=false&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C0243C&height=3&section=header&reversal=false&width=100%25" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=79CDEB&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=C0243C&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
 
 ```python
 class TayyabaAkbar:
@@ -60,14 +60,12 @@ class TayyabaAkbar:
 
 ## 🚀 Featured Projects
 
-<!-- SVG section divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=092421&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C0243C&height=2" width="100%"/>
 
-<!--  PROJECT GRID — 2 columns, cyan outlined cells  -->
 <table>
 <tr>
 <!-- ── PROJECT 1 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">💎 Luxe Jewel</h3>
 
@@ -81,13 +79,13 @@ Status : ✅ Live
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-79CDEB?style=for-the-badge&logoColor=092421)](https://luxe-jewel.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-C0243C?style=for-the-badge&logoColor=F5C2CB)](https://luxe-jewel.vercel.app/)
 
 </div>
 </td>
 
 <!-- ── PROJECT 2 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">🤖 Physical AI & Humanoid Robotics</h3>
 
@@ -101,7 +99,7 @@ Status : ✅ Live
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-79CDEB?style=for-the-badge&logoColor=092421)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-C0243C?style=for-the-badge&logoColor=F5C2CB)](https://physical-ai-and-humanoid-robotics-b-psi-weld.vercel.app/)
 
 </div>
 </td>
@@ -109,7 +107,7 @@ Status : ✅ Live
 
 <tr>
 <!-- ── PROJECT 3 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">🧬 AI Employee — Bronze Tier</h3>
 
@@ -123,13 +121,13 @@ Status : ✅ Shipped
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-BRONZE-TIER-)
 
 </div>
 </td>
 
 <!-- ── PROJECT 4 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">🥈 AI Employee — Silver Tier</h3>
 
@@ -143,7 +141,7 @@ Status : ✅ Shipped
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/AI-EMPLOYEE-SILVER-TIER-)
 
 </div>
 </td>
@@ -151,7 +149,7 @@ Status : ✅ Shipped
 
 <tr>
 <!-- ── PROJECT 5 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">🛠️ OpenAI Agent SDK</h3>
 
@@ -165,13 +163,13 @@ Status : ✅ Active
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/OpenAI-Agent-SDK)
 
 </div>
 </td>
 
 <!-- ── PROJECT 6 ── -->
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
 
 <h3 align="center">📡 OpenCLAW × 9Router Guide</h3>
 
@@ -185,7 +183,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
+[![View Repo](https://img.shields.io/badge/📁_View_Repo-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956/openclaw-9router-setup-guide)
 
 </div>
 </td>
@@ -216,8 +214,8 @@ Stars  : ⭐ 6 GitHub Stars
 <!-- AI Tools -->
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-C0243C?style=for-the-badge&logoColor=F5C2CB)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8B1A2F?style=for-the-badge&logoColor=F5C2CB)
 ![OpenCLAW](https://img.shields.io/badge/OpenCLAW-6B21A8?style=for-the-badge&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-24292F?style=for-the-badge&logo=github&logoColor=white)
 
@@ -242,29 +240,29 @@ Stars  : ⭐ 6 GitHub Stars
 <table>
 <thead>
 <tr>
-<th colspan="4" align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">
+<th colspan="4" align="center" style="border: 2px solid #C0243C; background-color: #092421; color: #F5C2CB;">
 &nbsp;🤖 Anthropic Education Certificates
 </th>
 </tr>
 <tr>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">🏅</th>
-<th align="left" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Certificate</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Date</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Verify</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">🏅</th>
+<th align="left" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Certificate</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Date</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Verify</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">🟦</td>
+<td align="center">🟥</td>
 <td><b>Introduction to Model Context Protocol</b></td>
 <td align="center">Aug 13, 2025</td>
-<td align="center"><a href="https://verify.skilljar.com/c/ikm49mqmjczt"><img src="https://img.shields.io/badge/Verify-79CDEB?style=flat-square&logoColor=092421" /></a></td>
+<td align="center"><a href="https://verify.skilljar.com/c/ikm49mqmjczt"><img src="https://img.shields.io/badge/Verify-C0243C?style=flat-square&logoColor=F5C2CB" /></a></td>
 </tr>
 <tr>
-<td align="center">🟦</td>
+<td align="center">🟥</td>
 <td><b>Model Context Protocol: Advanced Topics</b></td>
 <td align="center">Aug 20, 2025</td>
-<td align="center"><a href="https://verify.skilljar.com/c/3q85wt4c6puo"><img src="https://img.shields.io/badge/Verify-79CDEB?style=flat-square&logoColor=092421" /></a></td>
+<td align="center"><a href="https://verify.skilljar.com/c/3q85wt4c6puo"><img src="https://img.shields.io/badge/Verify-C0243C?style=flat-square&logoColor=F5C2CB" /></a></td>
 </tr>
 </tbody>
 </table>
@@ -275,16 +273,16 @@ Stars  : ⭐ 6 GitHub Stars
 <table>
 <thead>
 <tr>
-<th colspan="4" align="center" style="border: 2px solid #79CDEB; background-color: #092421; color: #79CDEB;">
+<th colspan="4" align="center" style="border: 2px solid #C0243C; background-color: #092421; color: #F5C2CB;">
 &nbsp;🎓 Panaversity / PIAIC Certifications &nbsp;·&nbsp; 83% Avg Score
-   &nbsp;| &nbsp; [📄 View Panaversity Profile →](https://panaversity.org/p/falihaarain48-qi54)
+   &nbsp;| &nbsp; <a href="https://panaversity.org/p/falihaarain48-qi54">📄 View Panaversity Profile →</a>
 </th>
 </tr>
 <tr>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">🏆</th>
-<th align="left" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Certificate</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Score</th>
-<th align="center" style="border: 2px solid #79CDEB; background-color: #0a3830; color: #79CDEB;">Date</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">🏆</th>
+<th align="left" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Certificate</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Score</th>
+<th align="center" style="border: 2px solid #C0243C; background-color: #1a0a0d; color: #F5C2CB;">Date</th>
 </tr>
 </thead>
 <tbody>
@@ -341,7 +339,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <table>
 <tr>
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; background-color: #092421;">
 
 **🎓 Formal Education**
 
@@ -351,7 +349,7 @@ Stars  : ⭐ 6 GitHub Stars
 ```
 
 </td>
-<td width="50%" valign="top" style="border: 2px solid #79CDEB; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; background-color: #092421;">
 
 **🔬 Currently Exploring**
 
@@ -374,13 +372,13 @@ Stars  : ⭐ 6 GitHub Stars
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=false&border_color=79CDEB&bg_color=092421&title_color=79CDEB&icon_color=79CDEB&text_color=B8E8F5&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Akbar956&show_icons=true&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&icon_color=C0243C&text_color=F5C2CB&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&hide_border=false&border=79CDEB&background=092421&stroke=79CDEB&ring=79CDEB&fire=79CDEB&currStreakLabel=79CDEB&sideLabels=B8E8F5&dates=B8E8F5" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&hide_border=false&border=C0243C&background=092421&stroke=C0243C&ring=C0243C&fire=C0243C&currStreakLabel=C0243C&sideLabels=F5C2CB&dates=F5C2CB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=79CDEB&bg_color=092421&title_color=79CDEB&text_color=B8E8F5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=F5C2CB" />
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=algolia&column=4&margin-w=8&no-bg=false&no-frame=false" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=gruvbox&column=4&margin-w=8&no-bg=false&no-frame=false" />
 
 </div>
 
@@ -396,11 +394,11 @@ Stars  : ⭐ 6 GitHub Stars
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-79CDEB?style=for-the-badge&logo=linkedin&logoColor=092421)](https://www.linkedin.com/in/tayyaba-akbar956/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-C0243C?style=for-the-badge&logo=linkedin&logoColor=F5C2CB)](https://www.linkedin.com/in/tayyaba-akbar956/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-092421?style=for-the-badge&logo=github&logoColor=79CDEB)](https://github.com/Tayyaba-Akbar956)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-092421?style=for-the-badge&logo=github&logoColor=C0243C)](https://github.com/Tayyaba-Akbar956)
 &nbsp;
-[![Certifications](https://img.shields.io/badge/View_Certifications-B8E8F5?style=for-the-badge&logoColor=092421)](https://panaversity.org/p/falihaarain48-qi54)
+[![Certifications](https://img.shields.io/badge/View_Certifications-8B1A2F?style=for-the-badge&logoColor=F5C2CB)](https://panaversity.org/p/falihaarain48-qi54)
 
 <br/>
 
@@ -411,6 +409,6 @@ Stars  : ⭐ 6 GitHub Stars
 <br/>
 
 <!-- ── FOOTER ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&customColorList=0,2,6,11,20&height=130&section=footer&animation=twinkling"/>
 
 </div>
