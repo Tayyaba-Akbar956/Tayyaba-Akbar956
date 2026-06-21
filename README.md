@@ -376,7 +376,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyaba-Akbar956&hide_border=false&border=C0243C&background=092421&stroke=C0243C&ring=C0243C&fire=C0243C&currStreakLabel=C0243C&sideLabels=F5C2CB&dates=F5C2CB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=000000&number_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=ffffff&number_color=ffffff" />
 
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Akbar956&theme=gruvbox&column=4&margin-w=8&no-bg=false&no-frame=false" />
 
