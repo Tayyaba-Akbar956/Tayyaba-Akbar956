@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C0243C&height=3&section=header&reversal=false&width=100%25" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=C0243C&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=99999&color=000000&vCenter=true&width=120&lines=%F0%9F%A7%A0+ABOUT+ME" alt="About Me"/>
 
 ```python
 class TayyabaAkbar:
