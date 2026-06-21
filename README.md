@@ -52,7 +52,7 @@ class TayyabaAkbar:
         return "Build AI systems that replace repetitive work — and do it elegantly."
 ```
 
-> 🌊 I don't just learn AI — I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
+> 🌊 I don't just learn AI, I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
 
 <br/>
 
@@ -107,7 +107,7 @@ Status : ✅ Live
 
 <tr>
 <!-- ── PROJECT 3 ── -->
-<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #092421;">
+<td width="50%" valign="top" style="border: 2px solid #C0243C; border-radius: 10px; padding: 16px; background-color: #C0243C;">
 
 <h3 align="center">🧬 AI Employee — Bronze Tier</h3>
 
