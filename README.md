@@ -52,7 +52,7 @@ class TayyabaAkbar:
         return "Build AI systems that replace repetitive work — and do it elegantly."
 ```
 
-> 🌊 I don't just learn AI — I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
+> 🌊 I don't just learn AI, I **build with it**. From autonomous AI employees to e-commerce platforms, every project I ship pushes the frontier of what's possible.
 
 <br/>
 
