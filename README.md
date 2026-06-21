@@ -409,5 +409,5 @@ Stars  : ⭐ 6 GitHub Stars
 
 
 <!-- ── FOOTER ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=130&section=footer&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C0243C,100:3B0012&height=130&section=footer&animation=twinkling"/>
 </div>
