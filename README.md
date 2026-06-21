@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ── HEADER BANNER GIF ── -->
-<img src="banner.gif" width="100%" alt="Tayyaba Akbar Banner"/>
+<img src="banner" width="100%" alt="Tayyaba Akbar Banner"/>
 
 <br/>
 
