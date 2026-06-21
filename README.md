@@ -378,7 +378,6 @@ Stars  : ⭐ 6 GitHub Stars
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Akbar956&layout=compact&hide_border=false&border_color=C0243C&bg_color=092421&title_color=C0243C&text_color=F5C2CB&number_color=ffffff" />
 
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Tayyaba-Akbar956&bg_color=092421&color=F5C2CB&line_color=C0243C&title_color=C0243C&hide_border=false" />
 
 </div>
 
@@ -390,7 +389,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <div align="center">
 
-> 💼 Open to **internships**, **freelance projects**, and **collaborations** in AI, Data Science & Web Dev.
+> 💼 Open to **internships** and **collaborations** in AI, Data Science & Web Dev.
 
 <br/>
 
@@ -408,7 +407,7 @@ Stars  : ⭐ 6 GitHub Stars
 
 <br/>
 
+<br/>
 <!-- ── FOOTER ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,9,36,33,121&customColorList=0,2,6,11,20&height=130&section=footer&animation=twinkling"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=130&section=footer&animation=twinkling&fontColor=ffffff"/>
 </div>
